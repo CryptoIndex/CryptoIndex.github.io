@@ -2,6 +2,10 @@
 
 This page will serve as an index to all cryptocurrencies so users can easily find more information about a specific cryptocurrency and allow users to submit feature requests to add / edit the list. 
 
+I will try to update this list as much as possible, please copy/paste entire ReadMe.md file into MarkDown editor, add your info and submit a pull request. 
+
+If you'd like to donate to this effort I've added donation addresses at the bottom of this page. 
+
 ## Index
 
 | coin                            | ticker                                                      | twitter_url                                                                   | websites                                                                                                                                             | reddit_url                                                            | 
@@ -1115,3 +1119,8 @@ This page will serve as an index to all cryptocurrencies so users can easily fin
 
 
 The original set of the data was obtained by [CoinMarketCap](https://coinmarketcap.com)
+
+<br>
+Donate BTC: 1Ag3YRaVeXJPA6SDYHooZChwQ162uaBiT<br>
+Donate ETH: 0x80b59078344e43080Af18094f7d884BFF5684b9f<br>
+Donate LTC: LNsTBoXhukjSQDQx72HM4MtXQRDHypDHEo<br>
