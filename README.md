@@ -4,5 +4,7 @@ This page will serve as an index to all cryptocurrencies so users can easily fin
 
 ## Index
 
-| Name 		  |    Website    |    slack         |    Subreddits    |
-| :---      |     :---:     |      :---:       |       :---:      |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
