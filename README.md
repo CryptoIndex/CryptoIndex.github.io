@@ -7,6 +7,7 @@ I will try to update this list as much as possible, please copy/paste entire Rea
 If you'd like to donate to this effort I've added donation addresses at the bottom of this page. 
 
 ## Index
+
 | coin                            | ticker                                                                        | reddit_url                                                            | twitter_url                                                                   | websites                                                                                                                                             | 
 |---------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | 0x                              | [ZRX](https://coinmarketcap.com/currencies/0x)                                | [r/0xProject](https://www.reddit.com/r/0xProject)                     | [@0xproject](https://twitter.com/0xproject)                                   | [https://0xproject.com/](https://0xproject.com/)<br>                                                                                                 | 
